@@ -1,0 +1,39 @@
+body{
+
+    background-image: url('https://i.redd.it/c3uhsgo1vx541.jpg');
+    background-size: cover
+    }
+    
+    .h1{
+        color:red;
+        text-align:center;
+        height:50px
+    }
+    .span
+    {
+        color:white;
+     text-align:center;
+     
+     
+    }
+    .span2{
+        color:white;
+        text-align:center;
+        margin:0 10px;
+    }
+    
+    .span span
+    {
+        color:white;
+     text-align:center;
+     margin: 50px;
+     font-size: 40px
+     
+    }
+    
+    .span1{
+        color:white;
+        text-align:center;
+     margin:  0 40px;
+     font-size: 40px;
+    }

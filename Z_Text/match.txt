@@ -1,0 +1,6 @@
+var MyText = "My Site Is Free-Learn.IR Free-Learn Is My Site" 
+MyText.match(/Free/);
+
+
+=> Free
+********************************

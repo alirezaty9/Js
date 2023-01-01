@@ -1,0 +1,16 @@
+.hidden{
+    display: none;
+}
+.red{
+    color:red;
+}
+.green{
+    color:green;
+}
+.blue{
+    color:blue}
+
+
+    body{
+        direction   :rtl
+    }
